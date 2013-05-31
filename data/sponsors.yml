@@ -32,6 +32,12 @@ special_sponsors:
     description: |-
       Heroku’s platform as a service allows your organization to build faster, deploy instantly and scale on demand without managing servers. Gain the flexibility to deploy any language any time and to any scale. Maintain control by isolating, running and monitoring independent processes. Heroku makes it effortless. Sign up at <a href="http://www.heroku.com" target="_blank">www.heroku.com</a>.
 
+  - id: Special05
+    name: GitHub
+    link: 'https://github.com/'
+    weight: 4
+    special: Drinkup Sponsor
+
   - id: Special03
     name: DeNA
     link: 'http://dena.com/'
